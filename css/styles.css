@@ -2,6 +2,11 @@ body {
     padding: 20px;
 }
 
+.table-main-template th,
+.table-specifications th:first-child {
+    width: 25%;
+}
+
 .opacity {
     opacity: .5;
 }
